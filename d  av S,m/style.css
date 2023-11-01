@@ -1,0 +1,55 @@
+body {
+	background-color: white;
+	background-image:url(barber2.jpg);
+}
+
+#banner {
+	width:45%;
+}
+
+.principal{
+	background: black;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 475px;
+	color: #ffffff;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	color:white;
+	padding: 60px;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #ffffff;
+}
+
+.itens {
+	font-style: Helvetica
+
+.corte{
+	background: #FFFFFF;
+	padding: 120px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemcorte {
+	width: 40%;
+}
